@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://mocomuseum.com/)
+  https://mocomuseum.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina Moco 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="mocomuseum.com_about-moco (1).png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   About Moco pagina 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="mocomuseum.com_about-moco.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
