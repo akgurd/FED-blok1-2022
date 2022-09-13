@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina Moco 
-  <img src="mocomuseum.com_about-moco (1).png" width="375px" alt="omschrijving van de pagina">
+  <img src="images/mocomuseum.com_about-moco (1).png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   About Moco pagina 
-  <img src="mocomuseum.com_about-moco.png" width="375px" alt="omschrijving van de pagina">
+  <img src="images/mocomuseum.com_about-moco.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
