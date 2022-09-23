@@ -145,16 +145,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Dit ging goed:
+<img width="222" alt="Screenshot 2022-09-23 at 14 50 32" src="https://user-images.githubusercontent.com/112885752/191964029-f0892dae-b59c-4d59-a34b-164dfd252e35.png"> Het maken van de root in css.
+
+Dit was lastig:
+
+<img width="298" alt="Screenshot 2022-09-23 at 14 51 26" src="https://user-images.githubusercontent.com/112885752/191964176-fbf13da8-6847-468a-80f3-c392875d8e54.png"> Ik had veel moeite met mijn header, had het eerst goed maar bij About Moco pagina moet het anders en toen ging het fout.
+
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Deniz                                                           | Michelle           | Quinesha     | Mike        |
+  | ---                                                             | ---                | ---          | ---              |
+  | Vraag. Bij me footer hoe zet ik de teks                         | en dit             | en ik dit    | en dan ik dat    |
+  | Vraag. Hoe maak ik de Amsterdam/Barcelona button?               | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Vraag. Hoe maak ik de header en main bij mijn About Moco page?            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
