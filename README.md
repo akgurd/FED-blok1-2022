@@ -160,8 +160,8 @@ Dit was lastig:
   | Deniz                                                           | Michelle                                                        | Quinesha     | Mike             |
   | ---                                                                                                                                 | ---                | ---          | ---              |
   | Vraag. Bij me footer hoe zet ik de teks                         | Vraag. Hoe maak ik een uitklapbaar menu?                          | Vraag.Hoe zet ik de pijltjes van mij carousel aan de zijkanten.    | Vraag. Hoe maak ik een responsive menu?    |
-  | Vraag. Hoe maak ik de Amsterdam/Barcelona button?               | Vraag. Hoe maak je een slideshow van tekst? | nog een punt |  | 
-  | Vraag. Hoe maak ik de header en main bij mijn About Moco page?  | Vraag.Hoe zorg ik ervoor min. 2 en max. 4 items op een rij krijg?               | ...          |               |
+  | Vraag. Hoe maak ik de Amsterdam/Barcelona button?               | Vraag. Hoe maak je een slideshow van tekst? | nog een punt |  | Vraag. Hoe zet ik een carousel naast een list?
+  | Vraag. Hoe maak ik de header en main bij mijn About Moco page?  | Vraag.Hoe zorg ik ervoor min. 2 en max. 4 items op een rij krijg?               |Vraag. Waarom krijg een witte balk wanneer ik naar een kleine scherm ga?         |               |
 
 
   ### Verslag van meeting
