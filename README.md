@@ -161,7 +161,7 @@ Dit was lastig:
   | ---                                                             | ---                | ---          | ---              |
   | Vraag. Bij me footer hoe zet ik de teks                         | en dit             | en ik dit    | en dan ik dat    |
   | Vraag. Hoe maak ik de Amsterdam/Barcelona button?               | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | Vraag. Hoe maak ik de header en main bij mijn About Moco page?            | ...                | ...          | ...              |
+  | Vraag. Hoe maak ik de header en main bij mijn About Moco page?  | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
