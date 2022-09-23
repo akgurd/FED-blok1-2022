@@ -157,11 +157,11 @@ Dit was lastig:
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Deniz                                                           | Michelle           | Quinesha     | Mike        |
-  | ---                                                             | ---                | ---          | ---              |
-  | Vraag. Bij me footer hoe zet ik de teks                         | en dit             | en ik dit    | en dan ik dat    |
-  | Vraag. Hoe maak ik de Amsterdam/Barcelona button?               | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | Vraag. Hoe maak ik de header en main bij mijn About Moco page?  | ...                | ...          | ...              |
+  | Deniz                                                           | Michelle                                                        | Quinesha     | Mike             |
+  | ---                                                                                                                                 | ---                | ---          | ---              |
+  | Vraag. Bij me footer hoe zet ik de teks                         | Vraag. Hoe maak ik een uitklapbaar menu?                          | en ik dit    | Vraag. Hoe maak ik een responsive menu?    |
+  | Vraag. Hoe maak ik de Amsterdam/Barcelona button?               | Vraag. Hoe maak je een slideshow van tekst? | nog een punt |  |
+  | Vraag. Hoe maak ik de header en main bij mijn About Moco page?  | Vraag.Hoe zorg ik ervoor min. 2 en max. 4 items op een rij krijg?               | ...          |               |
 
 
   ### Verslag van meeting
