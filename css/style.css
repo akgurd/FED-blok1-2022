@@ -1,0 +1,71 @@
+:root {
+    --bgColour: #F27ECA;
+    --colour: white;
+    --colourOW: black;
+    --box: white;
+    --button: #F27ECA;
+}
+
+body {
+    background: var(--bgColour);
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    background-color: var(--bgColour);
+}
+
+header img:nth-of-type(1) {
+    width: 5em;
+}
+
+header img:nth-of-type(2) {
+    width: 100%;
+}
+
+header h1 {
+    font-size: 4em;
+    font-weight: bold;
+    color: var(--colour);
+}
+
+header p {
+    font-size: 1em;
+    color: var(--colour);
+    margin: 1em;
+}
+
+header select{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 1em;
+}
+
+
+header button:nth-of-type(2) {
+    color: var(--colour);
+    opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main img{
+    width: 100%;
+    margin: 1em;
+}
+main section {
+    background-color: var(--colour);
+    border-radius: 1em;
+    margin: 1em;
+}
+
+footer {
+    background-color: var(--colour);
+}
+
+footer h2 {
+    font-weight: bold;
+}
