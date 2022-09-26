@@ -169,7 +169,11 @@ Dit was lastig:
   | Vraag. Hoe zet ik mijn buttons naast  elkaar met een img  ertussen?           | Vraag. Hoe doe ik deze transitions?             | Vraag. Waarom werkt me AddEventListener niet?         |               |
   | Vraag. Waarom werkt me font niet?            | Vraag. Mogen px bij media schermbreedte?             | ...          |               |
  
-
+  | Arron      | 
+  | ---            | 
+  | Vraag. Hoe doe je transitions?  |
+  | en dat ook nog | 
+  | ...            |
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
