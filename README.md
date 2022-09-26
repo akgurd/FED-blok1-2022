@@ -162,7 +162,7 @@ Dit was lastig:
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Deniz     | Donna          | Mohini    | Shanine        | Arron       |
+  | Deniz     | Donna          | Mohini    | Shanine        | Arron       |                                                                                 
   | ---            | ---                | ---          | ---              | Vraag. Hoe doe je transitions?
   | Vraag. Hoe zet ik een background image bij mijn header?  | Vraag. Mag je een ID gebruiken zodat je maar 1 css pagina hebt?             | Vraag. Hoe style ik forms?   | Vraag. Hoe maak ik de cirkel bovenin?    |             | 
   | Vraag. Hoe zet ik content in een bepaalde volgorde? | Vraag. Mag ik deze ID houden? | Vraag. Hoe voeg je een countdown timer? | Vraag. Hoe zet je een filmpje bij de header? |
