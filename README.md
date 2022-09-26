@@ -165,8 +165,9 @@ Dit was lastig:
   | Deniz     | Donna          | Mohini    | Shanine        |
   | ---            | ---                | ---          | ---              |
   | Vraag. Hoe zet ik een background image bij mijn header?  | Vraag.              | Vraag. Hoe style ik forms?   | Vraag. Hoe maak ik de cirkel bovenin?    |
-  | en dat ook nog | Vraag. Mag ik deze ID houden? | Vraag. Hoe voeg je een countdown timer? | Vraag. Hoe zet je een filmpje bij de header? |
+  | Vraag. Hoe zet ik content in een bepaalde volgorde? | Vraag. Mag ik deze ID houden? | Vraag. Hoe voeg je een countdown timer? | Vraag. Hoe zet je een filmpje bij de header? |
   | ...            | Vraag. Hoe doe ik deze transitions?             | ...          |               |
+  | ...            | Vraag. Mogen px bij media schermbreedte?             | ...          |               |
 
 
   ### Verslag van meeting
