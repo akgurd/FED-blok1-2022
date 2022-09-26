@@ -168,6 +168,7 @@ Dit was lastig:
   | Vraag. Hoe zet ik content in een bepaalde volgorde? | Vraag. Mag ik deze ID houden? | Vraag. Hoe voeg je een countdown timer? | Vraag. Hoe zet je een filmpje bij de header? |
   | ...            | Vraag. Hoe doe ik deze transitions?             | ...          |               |
   | ...            | Vraag. Mogen px bij media schermbreedte?             | ...          |               |
+  | ...            | Vraag. Mag je een ID gebruiken zodat je maar 1 css pagina hebt?            | ...          |               |
 
 
   ### Verslag van meeting
