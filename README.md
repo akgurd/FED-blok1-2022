@@ -166,7 +166,7 @@ Dit was lastig:
   | ---            | ---                | ---          | ---              |
   | Vraag. Hoe zet ik een background image bij mijn header?  | Vraag. Mag je een ID gebruiken zodat je maar 1 css pagina hebt?             | Vraag. Hoe style ik forms?   | Vraag. Hoe maak ik de cirkel bovenin?    |
   | Vraag. Hoe zet ik content in een bepaalde volgorde? | Vraag. Mag ik deze ID houden? | Vraag. Hoe voeg je een countdown timer? | Vraag. Hoe zet je een filmpje bij de header? |
-  | Vraag. Hoe zet ik mijn buttons naast  elkaar met een img  ertussen?           | Vraag. Hoe doe ik deze transitions?             | ...          |               |
+  | Vraag. Hoe zet ik mijn buttons naast  elkaar met een img  ertussen?           | Vraag. Hoe doe ik deze transitions?             | Vraag. Waarom werkt me AddEventListener niet?         |               |
   | Vraag. Waarom werkt me font niet?            | Vraag. Mogen px bij media schermbreedte?             | ...          |               |
  
 
