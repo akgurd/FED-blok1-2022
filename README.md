@@ -90,7 +90,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Hieruit kwam dat:
   
   1. sommige buttons geen hover state hebben of een hover hebben waarvan je bijna niet kan zien wat er veranderd.
-  2. de slider van Amsterdam naar Barcelona is bijna geeen verschil.
+  2. de slider van Amsterdam naar Barcelona is bijna geen verschil.
   3. de logo soms niet op focus staat.
   
   Er kwam ook goede dingen uit zoals:
@@ -101,16 +101,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
+  Hoe het opgelost kan worden is door:
+  
+  1. Een hover state op elke button en link te zetten.
+  2. Als ik tijd had om een 3de pagina te maken zou ik de dan ervoor zorgen dat je de content anders zou zijn en de taal of misschien de content hetzelfde      maar andere foto's zodat je een duidelijke switch kan zien.
+  3. Een focus state geven aan de logo.
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  Met de shocks, de ballon en de elastieken ging het helemaal goed en kwamen we niet op problemen.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  
+  Hier is er geen nut voor verbetering.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 </details>
