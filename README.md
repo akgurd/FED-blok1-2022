@@ -193,10 +193,10 @@ Dit ging goed:
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - 
+  - 
+  -
+  - 
 
 </details>
 
@@ -236,10 +236,10 @@ Dit was lastig:
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - 
+  - 
+  - 
+  -
 
 </details>
 
@@ -254,29 +254,66 @@ Dit was lastig:
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  
+  Wat er uit de test is gekomen is dat me site het voor de grote deel het goed doet alleen er is natuurlijk altijd wel plek voor verbetering.
+  Ik zag wel verbetering in sommige testen wat fijn is.
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  Het ging voor een deel goed zoals, bij de headings die waren gewoon logish en werden goed voorgelezen, de buttons werden ook goed beschreven.
+  
+  Natuurlijk waren er ook een paar dingen die verbeterd konden worden zoals, de more info button moet een link zijn en dan ook een goede beschrijving krijgen van waar de more info over is. De moco logo moet naast de "welcome to moco" ook zeggen dat het een link is terug naar de homepage.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  
+  Hoe ik het kan oplossen is bij de more info button dus een link te maken en dan een beschrijving te geven van dat het dus meer informatie geeft over de museum.
+  
+  Bij de logo kan ik dus ook naast de "welcome to moco" een tekst schrijven dat het zegt dat het een button is als je terug naar de homepage wilt.
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  Het tabben ging heel fijn, het ging gewoon door alles wat moest.
+  
+  Bij blurred waren de kopjes goed te lezen alleen de p's waren soms wat moeilijk om te lezen. De witte tekst was makkelijker te lezen dan de zwarte.
+  
+  Bij de kleurblindheid test zagen we dat de tekstvakken goed gescheiden was van de achtergrond en tekst. Het veranderd de kleuren en de site werkt prima met kleurblindheid.
+  
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
+  Ik kan de p's wat meer witruimte geven en wat groter kunnen maken zodat ze wat meer leesbaar zijn.
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  Met de motorieken ging het goed en hadden wij geen problemen. Met de elastieken en shocks was de site nog steeds goed te bedienen. Met de ballon hadden wij ook geen problemen en werden we niet afgeleid.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
-
+  Hier hoeven er geen verbeteringen.
+  
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  Met de brillen ging het voor een groot gedeelte goed, alleen er waren wel een paar brillen waar we helemaal niks mee konden zien maar is ook heel moeilijk. Ik zag wel dat er met de vorige keer een verbetering was.
 
+  Blur/Glare: Foto's zijn goed te zien alleen de tekst is moeilijk te lezen.
+  
+  Peripheral: Het is soms lastig maar kan alles zien.
+  
+  Hemifield: Er waren met deze bril helemaal geen problemen.
+  
+  Central field: Met deze bril konden wij dus helemaal niets zien.
+  
+  Low contrast: Alles is leesbaar en goed te zien.
+  
+  Combined loss: Hier was ook alles leesbaar en goed te zien.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  
+  Wat ik kan dus is dus meer witruimte geven tussen de regels en wat groter maken zodat het meer leesbaar is. 
 
 </details>
 
