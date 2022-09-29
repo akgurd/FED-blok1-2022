@@ -114,13 +114,30 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   
-  Hier is er geen nut voor verbetering.
+  Hier is er niks om te verbeteren.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
   
+  Hemifield: Geen problemen.
+  
+  Central field: Kan niks lezen.
+  
+  Combined loss: Lastig om het witte tekst op het roze te lezen.
+  
+  Blur/Glare: Headings zijn goed te lezen maar de p's niet.
+  
+  Peripheral vision: Bijna niks te zien.
   
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  
+  Central field: hier kan ik ervoor zorgen dat de screenreader zodanig alles zo goed voorleest dat ze geen problemen gaan lopen  met het gebruiken van de                  site.
+  
+  Combined loss: Spelen met contrast om te kijken wat het fijnst is om te lezen.
+  
+  Blur/Glare: Hier kan ik de p's wat groter maken en wat meer wit ruimte kunnen geven om het wat meer leesbaar te maken.
+  
+  Peripheral vision: Hier kan ik dezelfde oplossing gebruiken die ik ook bij central field wil gebruiken.
 
 </details>
 
