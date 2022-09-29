@@ -57,16 +57,48 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  
+  Wat uit de test is gekomen dat de site nog veel ruimte heeft voor verbetering. 
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  Uit de screenreader kwam uit dat:
+  
+  1. Dat de taal fout staat in de html waardoor de screenreader de tekst niet goed kan lezen.
+  2. Dat de screenshots vaag zijn beschreven.
+  3. Dat je vast komt bij de cookies pop up waardoor je niks kan doen op de site.
+  4. Dat bepaalde buttons die links moeten zijn geen link zijn.
+  
+  Maar er kwam ook goede dingen zoals:
+  
+  1. Dat de structuur goed te volgen is en logish is.
+  2. De linkjes duidelijk zijn.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
+  Wat ik kan doen is om de problemen op te lossen is:
+  
+  1. De goede taal in de html zetten dus geen NL maar EN.
+  2. Een betere en langere beschrijving bij de foto's.
+  3. Een skip button maken zodat je gelijk naar de knop "alle cookies" of "geen cookies" kan klikken
+  4. De buttons veranderen naar een link sinds ze lijden naar een andere pagina.
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
-
+  
+  Hieruit kwam dat:
+  
+  1. sommige buttons geen hover state hebben of een hover hebben waarvan je bijna niet kan zien wat er veranderd.
+  2. de slider van Amsterdam naar Barcelona is bijna geeen verschil.
+  3. de logo soms niet op focus staat.
+  
+  Er kwam ook goede dingen uit zoals:
+  
+  1. Je kan door alle linkjes tabben.
+  2. Dat je met met pijltjes en spatie naar beneden kan gaan.
+  3. Dat als je op een link staat en dan enter klikt dat je ook echt naar de pagina gaat.
+  
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
