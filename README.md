@@ -193,10 +193,8 @@ Dit ging goed:
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - Deniz: nog moeite met het positioneren
-  - 
-  -
-  - 
+  - Vragen waren allemaal beantwoord behalve mijn button vraag maar daar zal ik met Sanne apart voor zitten.
+  - Heb nog steeds last met het positioneren.
 
 </details>
 
@@ -236,10 +234,8 @@ Dit was lastig:
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - 
-  - 
-  - 
-  -
+  - Moeite met mijn header en het stylen ervan.
+  - Vragen waren wel allemaal beantwoord ookal waren we met 5 mensen dus dat was fijn.
 
 </details>
 
