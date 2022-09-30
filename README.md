@@ -331,7 +331,7 @@ Dit was lastig:
 
     | Deniz     | Michelle          | Quinesha    | Mike        |
   | ---            | ---                | ---          | ---              |
-  | Vraag. Hoe fix ik mijn header?  | Vraag. Hoe zorrg ik ervoor dat teksten niet over mijn sticky header floaten? | Vraag. Hoe plaats ik een button het best op een specifieke plek?    | Vraag. Hoe maak ik een automatische image carousel? |
+  | Vraag. Hoe fix ik mijn header?  | Vraag. Hoe zorrg ik ervoor dat teksten niet over mijn sticky header floaten? | Vraag. Hoe plaats ik een button het     best op een specifieke plek?    | Vraag. Hoe maak ik een automatische image carousel? |
   | Vraag. Hoe zet ik zo een lijn bij mijn footer? | ... | Vraag. Hoe plaats ik een cirkel met een icoon erin? | dit wil ik zeker |
   | Vraag. Hoe maak ik de cookies button?           | ...                | Vraag. Hoe zorg ik dat een plaatje aan de bovenkant een button overlapt maar niet aan de onderkant.         | ...              |
 
