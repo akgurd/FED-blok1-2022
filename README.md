@@ -338,10 +338,8 @@ Dit was lastig:
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Vragen waren allemaal beantwoord.
+  - Kwam erachter dat ik de cookies button niet eens hoef te doen dus dat is 1 last af van me schouders.
 
 </details>
 
