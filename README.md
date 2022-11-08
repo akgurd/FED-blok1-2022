@@ -208,11 +208,18 @@ Dit ging goed:
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-Dit was lastig:
+  Wat ging goed is dat ik de foto's van de borders gelijk kon krijgen met de border van mijn vakje.
+  <img width="438" alt="Screenshot 2022-11-08 at 21 22 12" src="https://user-images.githubusercontent.com/112885752/200667390-d8f41340-4a47-4bb2-9d26-a3dea68e96ba.png">
 
+  <img width="388" alt="Screenshot 2022-11-08 at 21 21 10" src="https://user-images.githubusercontent.com/112885752/200667177-0285dce6-505f-4442-901e-104b8e54216a.png"> 
+ 
 
+Wat lastig ging is bij dezelfde stukje maar dan bij de tekst, want wat ik wou is dat de image dan boven is en dan de h2, h3, p maar het lukte mij niet om het op die volgorde te krijgen.
+  
+<img width="825" alt="Screenshot 2022-11-08 at 21 25 26" src="https://user-images.githubusercontent.com/112885752/200668028-64b45925-8601-4b34-bb7a-128691491b23.png">
+
+   <img width="388" alt="Screenshot 2022-11-08 at 21 21 10" src="https://user-images.githubusercontent.com/112885752/200667177-0285dce6-505f-4442-901e-104b8e54216a.png"> 
 
 
   ### Agenda voor meeting
@@ -323,7 +330,12 @@ Dit was lastig:
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ 
+  Wat goed ging is het maken van 3 stylepagina's, is iets wat ik eerder niet heb gedaan maar is wel fijn want is wat overzichtelijker.
+<img width="363" alt="Screenshot 2022-11-08 at 21 27 33" src="https://user-images.githubusercontent.com/112885752/200668429-17a4c00d-249a-4cf6-b9a7-3344b1e0f05f.png">
+
+  Wat minder goed ging is mijn header en daar heb ik al een tijdje problemen mee.
+  <img width="454" alt="Screenshot 2022-11-08 at 21 28 50" src="https://user-images.githubusercontent.com/112885752/200668749-fe047201-413d-4d7f-9cc2-0ffa136a29cd.png">
 
 
   ### Agenda voor meeting
