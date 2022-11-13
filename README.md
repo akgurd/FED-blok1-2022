@@ -391,7 +391,7 @@ Wat lastig ging is bij dezelfde stukje maar dan bij de tekst, want wat ik wou is
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
+  1. cookie button icon : https://www.flaticon.com/free-icon/cookie_3696968?term=cookie&page=1&position=47&page=1&position=47&related_id=3696968&origin=search
   2. bron 2
   3. ...
 
