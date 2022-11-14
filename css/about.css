@@ -1,0 +1,188 @@
+/* :root {
+    --bgColour: #F27ECA;
+    --colour: white;
+    --colourOW: black;
+    --box: white;
+    --button: #F27ECA;
+    --transparent: #0000;
+
+    --darkBackground: rgb(55, 53, 53);
+    --sectionBackground: #73586A;
+
+    --hover: #66A65E;
+    --active: #4B53FA; 
+    --visited: #FADC57;
+    --focus: #EAF2C7;
+    --focusShadow: #733C5F;
+} */
+
+main{
+    background-color: var(--colour);
+    padding: 0 0 1em 0;
+}
+
+main section:nth-of-type(1){
+    background-color: var(--bgColour);
+    height: 15em;
+    z-index: -1;
+    top: 0;
+    box-sizing: border-box;
+}
+
+main section:nth-of-type(1) h2{
+    color: var(--bgColour);
+}
+
+main > h1{
+    color: var(--colour);
+    margin-top: -3em;
+    font-size: 3em;
+    position: relative;
+}
+
+main > img{
+    width: 90%;
+    margin-top: -3.5em;
+}
+
+main section{
+    text-align: left;
+    padding: 1em;
+}
+
+main section:nth-of-type(2){
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main h3{
+    text-align: left;
+    padding: 1em;
+}
+
+main a{
+    background-color: var(--transparent);
+    color: var(--colourOW);
+    border-style: none;
+    padding: 0;
+    text-decoration: underline;
+    margin: 0;
+}
+
+main > a:last-of-type{
+    display: flex;
+    align-items: start;
+    background-color: var(--bgColour);
+    border-color: var(--bgColour);
+    border-style:solid;
+    width: 5em;
+    padding: .5em;
+    color: var(--colour);
+    font-weight: bold;
+    border-radius: .5em;
+    text-decoration: none;
+    margin: 1em;
+}
+
+main a:hover{
+    color: var(--hover);
+}
+
+main a:active{
+    color: var(--active);
+}
+
+main a:visited{
+    color: var(--visited);
+}
+
+main a:focus{
+    color: var(--bgColour);
+    transform:translatey(-.5em);
+    box-shadow:
+        0 .5em var(--focusShadow), 
+        inset 0 0 var(--focusShadow);
+}
+
+main > a:last-of-type:hover{
+    color: var(--colour);
+    background-color: var(--hover);
+    border-color: var(--hover);
+}
+
+main > a:last-of-type:active{
+    color: var(--colour);
+    background-color: var(--active);
+    border-color: var(--active);
+}
+
+main > a:last-of-type:visited{
+    color: var(--colour);
+    background-color: var(--visited);
+    border-color: var(--visited);
+}
+
+main > a:last-of-type:focus{
+    color: var(--colour);
+    background-color: var(--bgColour);
+    border-color: var(--bgColour);
+    transform:translatey(-.5em);
+    box-shadow:
+        0 .5em var(--focusShadow), 
+        inset 0 0 var(--focusShadow);
+}
+
+main section:nth-of-type(7) > h2{
+    font-size: medium;
+}
+
+main section:nth-of-type(8) > h2{
+    font-size: medium;
+}
+
+section img{
+    width: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+    header{
+        background-color: var(--sectionBackground);
+    }
+
+    main{
+        background-color: var(--darkBackground);
+    }
+
+    main a{
+        color: var(--colour);
+    }
+
+    main h2{
+        color: var(--colour);
+    }
+
+    main h3{
+        color: var(--colour);
+    }
+
+    main p{
+        color: var(--colour);
+    }
+    main section:nth-of-type(1){
+        background-color: var(--sectionBackground);
+        height: 15em;
+        z-index: -1;
+        top: 0;
+        box-sizing: border-box;
+    }
+    
+    main section:nth-of-type(1) h2{
+        color: var(--sectionBackground);
+    }
+}
+
+button img{
+    width: 3em;
+    height: 3em;
+}

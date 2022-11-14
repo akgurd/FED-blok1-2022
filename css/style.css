@@ -1,18 +1,25 @@
 :root {
-    --bgColour: #F27ECA;
+    --bgColour: #f27eca;
     --colour: white;
     --colourOW: black;
     --box: white;
     --button: #F27ECA;
+    --transparent: #0000;
+
+    --darkBackground: rgb(55, 53, 53);
+    --sectionBackground: #73586A;
+    --footerDark: rgb(14, 13, 13);
+    --headerDark:rgb(24, 23, 23);
+
+    --hover: #66A65E;
+    --active: #4B53FA; 
+    --visited: #FADC57;
+    --focus: #EAF2C7;
+    --focusShadow: #733C5F;
 }
 
 /* bron lettertype: Donna stam */
 /* bron lettertype:https://fonts.adobe.com/fonts/futura-pt#fonts-section */
-/* @font-face{
-    font-family: Futurapt;
-    src: url(../font/Futura.ttc);
-} */
-
 body {
     background: var(--bgColour);
     margin: 0;
@@ -20,161 +27,328 @@ body {
     font-family: futura-pt, sans-serif;
 }
 
+@media (prefers-color-scheme: dark) {
+    body {
+        background: var(--darkBackground);
+    }
+}
 header {
-    background-color: var(--colourOW);
-    position: relative;
+    background-color: var(--transparent);
+    display: flex;
+    position: sticky; 
+    top: 0; 
+    z-index: 100; 
 }
 
-header img:nth-of-type(1) {
-    width: 5em;
-}
-
-/* header img:nth-of-type(2) {
-    position: absolute;
-    top: 0;
-    left: 0;
-} */
-
-header h1 {
-    font-size: 4em;
-    font-weight: bold;
+a:focus{
+    background-color: var(--bgColour);
     color: var(--colour);
+    transform:translatey(-.5em);
+    box-shadow:
+        0 .5em var(--focusShadow), 
+        inset 0 0 var(--focusShadow);
+    outline: none;
 }
 
-header p {
-    font-size: 1em;
-    color: var(--colour);
-    margin: 1em;
+header a:first-child{
+    margin: 0 auto;
+    font-size: 3em;
+}
+
+header a:nth-of-type(2):hover{
+    color: var(--hover);
+}
+
+header a:nth-of-type(2):active{
+    color: var(--active);
+}
+
+header a:nth-of-type(2):visited{
+    color: var(--visited);
+}
+
+header a:nth-of-type(2):focus{
+    color: var(--bgColour);
+    transform:translatey(-.5em);
+    box-shadow:
+        0 .5em var(--focusShadow), 
+        inset 0 0 var(--focusShadow);
+    outline: none;
+}
+
+header section{
+    background-color: var(--colour);
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    height: 3em;
+    align-items: center;
+    width: 100%;
 }
 
 header select{
-    position: absolute;
     top: 0;
     right: 0;
     margin: 1em;
+    background-color: var(--transparent);
+    color: var(--colourOW);
+    border-style: none;
+    font-size: medium;
 }
 
-header button:nth-of-type(1){
+header select:hover{
+    background-color: var(--hover);
+}
+
+header select:active{
+    background-color: var(--active);
+}
+
+header select:focus{
+    background-color: var(--bgColour);
+    border-color: var(--bgColour);
+    color: var(--colour);
+    font-size: medium;
+    transform:translatey(-.5em);
+    box-shadow:
+        0 .5em var(--focusShadow), 
+        inset 0 0 var(--focusShadow);
+    outline: none;
+}
+
+header a img{
+    margin: 0 auto;
+    width: 2em;
+}
+
+header a img:focus{
+    margin: 0 auto;
+    width: 2em;
+    outline-color: var(--focus);
+}
+
+header a:nth-of-type(2){
     background-color: var(--colour) 100%;
     border-color: var(--colour)100%;
     border-style: none;
-    color: var(--colour);
+    color: var(--colourOW);
     display: flex;
-    align-items: flex-start;
+    align-items: start;
+    order: -100;
+    text-decoration: underline;
+    margin: 0 auto;
  }
 
-header button:nth-of-type(2){
-    background-color: var(--colour);
-    border-color: var(--colour);
+header a:nth-of-type(3){
+    display: flex;
+    align-items: start;
+    background-color: var(--bgColour);
+    border-color: var(--bgColour);
     border-style:solid;
-    padding: 1em;
-    color: var(--colourOW);
+    width: 3em;
+    height: 1.5em;
+    padding: .5em;
+    color: var(--colour);
     font-weight: bold;
     border-radius: .5em;
-    align-items: center;
+    text-decoration: none;
  }
 
-header button:nth-of-type(3){
+header a:nth-of-type(4){
     background-color: var(--colour) 100%;
     border-color: var(--colour);
     border-style:solid;
     padding: 1em;
     color: var(--colour);
     border-radius: .5em;
-    align-items: center;
+    text-decoration: none;
  }
- 
-header link {
-    color: var(--bgColour);
-    top: 0;
-    left: 0;
+
+ header a:nth-of-type(3):hover{
+    background-color: var(--hover);
+    border-color: var(--hover);
 }
 
-main{
-    color: var(--colour);
+header a:nth-of-type(3):active{
+    background-color: var(--active);
+    border-color: var(--active);
 }
 
-main section {
-    background-color: var(--colour);
-    color: var(--colourOW);
-    border-radius: 1em;
-    margin: 1em;
+header a:nth-of-type(3):visited{
+    background-color: var(--visited);
+    border-color: var(--visited);
+}
+
+header a:nth-of-type(3):focus{
+    background-color: var(--bgColour);
+    border-color: var(--bgColour);
+    transform:translatey(-.5em);
+    box-shadow:
+        0 .5em var(--focusShadow), 
+        inset 0 0 var(--focusShadow);
+    outline: none;
+}
+
+ @media (prefers-color-scheme: dark) {
+    header section{
+        background-color: var(--headerDark);
+    }
+    
+    header a:nth-of-type(2){
+        background-color: var(--colour) 100%;
+        border-color: var(--colour)100%;
+        color: var(--bgColour);
+     }
+
+     header select{
+        background-color: var(--transparent);
+        color: var(--bgColour);
+    }
+}
+
+button{
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border-color: var(--transparent);
+    background-color: var(--bgColour);
+    box-sizing: border-box;
     display: flex;
-    flex-direction: column-reverse;
-    text-align: left;
-}
-main section:nth-of-type(8){
-    background-color: var(--bgColour);
-    color: var(--colour);
-}
-
-main section:nth-of-type(9){
-    background-color: var(--bgColour);
-    color: var(--colour);
-}
-
-main button:nth-of-type(1){
-    background-color: var(--colour);
-    border-color: var(--colour);
-    border-style:solid;
-    padding: 1em;
-    color: var(--colourOW);
-    font-weight: bold;
-    border-radius: .5em;
     align-items: center;
-}
-main section button{
-    background-color: var(--colour);
-    display: flex;
-    align-items: flex-start;
-    width: 7em;
-    padding: 1em;
-    font-weight: bold;
-    border-style: none;
-    border-radius: .5em;
-    text-align: center;
+    margin: 1em;
+    position: fixed;
+    bottom: 2em;
+    z-index: 100;
 }
 
-main img{
-    width: 100%;
-    border-radius: 5% 5% 10% 10% / 5% 5% 0% 0%  ;
+aside{
+    background: var(--bgColour);
+    transform: translatex(-30em);
+    width:100%;
+    position:fixed;
+    bottom:0;
+    left:0;
+    z-index: 2000;
+    text-align: left;
 }
-footer {
+
+aside h2{
+    padding: 0 0 .5em .5em;
+}
+
+aside p{
+    padding: 0 0 0 1em;
+}
+
+aside button:first-of-type{
+    align-items: center;
+    top: 0;
+    right: 0;
+    font-size: 1em;
+    font-weight: bold;
+    border-color: var(--colour);
+    border-style: none;
+    width: 1em;
+}
+aside > button:nth-of-type(2){
+    align-items: center;
+    bottom: 0;
+    right: 0;
+    font-weight: bold;
+    border-color: var(--colour);
+    border-style: solid;
+    width: 7em;
+    border-radius: 1em;
+    
+}
+
+aside.show{
+    transform: translatex(0);
+}
+
+footer{
     background-color: var(--colour);
     text-align: left;
     padding: 1em;
 }
 
-/* footer h2 {
-    font-weight: bold;
-} */
+footer section:nth-of-type(1){
+    border-bottom-style: outset;
+    padding: 2em 0;
+}
 
-footer section{
-    /* display: flex;
-    flex-flow: column wrap; */
-    gap: 1em;
+footer p{
+    padding: 0 0 2em 0;
+}
+footer img{
+    width: 6em;
+    padding: 2em 0 0 0;
+}
+
+footer section:nth-of-type(2){
+    display: grid;
+    grid-template-columns: 9em 7em;
 }
 
 footer ul{
     list-style: none;
+    padding: 0.5em;
 }
 
-footer ul:nth-of-type(4){
+footer > section:last-child ul{
     display: flex;
     justify-content:space-around;
     align-items:flex-end;
-    padding: 1em;
+    padding: 0.5em;
 }
-/* 1024px veranderd de footer */
 
-footer button{
-    width: 7em;
-    background-color: var(--colour) 100%;
+footer a{
+    width: 6em;
+    background-color: var(--colour);
     border-color: var(--colourOW);
     border-style:solid;
-    border-width: .1em;
-    padding: 1em;
+    padding: .7em;
     color: var(--colourOW);
     border-radius: .5em;
     align-items: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover{
+    background-color: var(--hover);
+    border-color: var(--hover);
+}
+
+footer a:active{
+    background-color: var(--active);
+    border-color: var(--active);
+}
+
+footer a:visited{
+    background-color: var(--visited);
+    border-color: var(--visited);
+}
+
+footer a:focus{
+    background-color: var(--bgColour);
+    border-color: var(--bgColour);
+    transform:translatey(-.5em);
+    box-shadow:
+        0 .5em var(--focusShadow), 
+        inset 0 0 var(--focusShadow);
+    outline: none;
+}
+
+@media (prefers-color-scheme: dark) {
+    footer {
+        background-color: var(--footerDark);
+        color: var(--colour);
+    }
+
+    footer a{
+        background-color: var(--bgColour);
+        border-color: var(--bgColour);
+        color: var(--colour);
+    }
 }
