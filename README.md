@@ -149,13 +149,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  [layout html scherm.pdf](https://github.com/akgurd/FED-blok1-2022/files/10003594/layout.html.scherm.pdf)
 
 </details>
 
@@ -363,25 +357,37 @@ Wat lastig ging is bij dezelfde stukje maar dan bij de tekst, want wat ik wou is
 
 <details>
   <summary>uitwerken voor eindgesprek</summary>
-
+  
+  Na de laatste voortgangsgesprek ben ik gaan werken aan mijn site en liep op veel problemen vast waardoor ik in tijdsnoods kwam en daardoor dan niet op tijd mijn site kon inleveren. Uiteindelijk door de hulp van Donna is het mijn gelukt voor de herkansing.
+  
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  
+  <img width="457" alt="Screenshot 2022-11-14 at 15 02 31" src="https://user-images.githubusercontent.com/112885752/201679405-fbfe8286-4d0a-450b-9c68-61e5a383b2c4.png">
 
+  <img width="455" alt="Screenshot 2022-11-14 at 15 02 59" src="https://user-images.githubusercontent.com/112885752/201679514-62188e49-6f51-4649-b685-a7a3e778cf4c.png">
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Ik heb geleerd om met grid te werken wat best een gedoe kon zijn soms.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img width="455" alt="Screenshot 2022-11-14 at 15 02 59" src="https://user-images.githubusercontent.com/112885752/201679514-62188e49-6f51-4649-b685-a7a3e778cf4c.png">
 
+  Ik heb geleerd hoe ik order kan gebruiken om de plaats van elementen te verplaatsen.
+  
+<img width="447" alt="Screenshot 2022-11-14 at 15 07 03" src="https://user-images.githubusercontent.com/112885752/201680414-0f012f47-a905-40db-8098-e2c5e6fce77e.png">
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+ 
+  De cookie button was heel lastig en zorgde voor veel problemen.
+<img width="82" alt="Screenshot 2022-11-14 at 15 07 35" src="https://user-images.githubusercontent.com/112885752/201680527-976fcbbb-5f0c-4106-be7a-828733f8cd65.png">
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
-</details>
+  Ik had  een lange tijd veel problemen met het positioneren van mijn header elemenenten maar door de hulp van Donna is het gelukt.
+<img width="456" alt="Screenshot 2022-11-14 at 15 09 15" src="https://user-images.githubusercontent.com/112885752/201680915-22f71cce-3ede-4ee2-a37a-4f605fff21fc.png">
 
+Met footer had ik ook veel problemen want de grid wou maar niet werken maar het is gelukt.
+<img width="465" alt="Screenshot 2022-11-14 at 15 10 01" src="https://user-images.githubusercontent.com/112885752/201681113-f675639c-8bab-4450-b351-73fccfee2069.png">
 
-
+  Ik heb deze button niet kunnen maken omdat ik niet ggenoeg tijd had.
+<img width="282" alt="Screenshot 2022-11-14 at 15 10 39" src="https://user-images.githubusercontent.com/112885752/201681272-08be017d-eb86-4d2c-8e87-236b902cf566.png">
 
 
 ## Bronnenlijst
@@ -392,7 +398,10 @@ Wat lastig ging is bij dezelfde stukje maar dan bij de tekst, want wat ik wou is
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
   1. cookie button icon : https://www.flaticon.com/free-icon/cookie_3696968?term=cookie&page=1&position=47&page=1&position=47&related_id=3696968&origin=search
-  2. bron 2
-  3. ...
+  2. Donna Stam: geholpen met mijn cookie button en met stukjes code en css.
+  3. bron logo: https://mocomuseum.com/ & https://www.remove.bg/upload
+  4. bron header picture code: bron: https://dev.to/ziratsu/switch-to-a-darker-image-when-on-dark-mode-2lkh
+  5. bron video inzetten: https://www.youtube.com/watch?v=IlRn1a38bec
+  6. Alle images komen van: [https:mocom](https://mocomuseum.com/) &https://mocomuseum.com/about-moco
 
 </details>
